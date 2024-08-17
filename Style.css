@@ -1,0 +1,17 @@
+h2{
+color:green;
+font-family: cursive;
+}
+p{
+    font-family: cursive;
+    font-size: 12px;
+}
+li{
+    font-family: cursive;
+    font-size: 12px;
+}
+img{
+    margin: 0;
+    width: 100px;
+    height: 120px;
+}
